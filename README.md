@@ -1,6 +1,8 @@
 # simple-scheduler
 
-A simple scheduler widget for Mendix. This scheduler is based on [react-big-scheduler](https://github.com/StephenChou1017/react-big-scheduler).
+A simple scheduler widget for Mendix. This scheduler is based on [react-big-scheduler](https://github.com/StephenChou1017/react-big-scheduler). <br /> 
+
+When having problems configuring the widget with this readme, just download a demo set up project, which includes the working widget, from here: https://github.com/DevrimBaran/SimpleScheduler/releases/tag/v1.0.0. Feel free to reuse any part of that demo project.
 
 ## Downloading it from the marketplace
 
